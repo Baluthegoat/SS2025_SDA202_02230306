@@ -42,8 +42,8 @@
 
 The university's automated grading system for SWE courses involves multiple actors and interactions. Students submit assignments to GitHub, where professor clones the repository, runs the code, and grades it based on criteria set. The system also checks for plagiarism using a web-based service like Turnitin. Grades are then submitted to the university's LMS, which is mainframe-based and difficult to modify. Professors set the grading criteria and due dates, and students can submit multiple attempts to improve their grades. The grades are audited annually by a state-based regulatory body. Despite budget constraints, the university aims to maintain its high performance in SWE education.
 
-[Click to view interaction overview diagram](./IoD.pdf)
+[Click to view interaction overview diagram](./IoD.jpg)
 
-[Click to view Use case diagram](./Use_case.pdf)
+[Click to view Use case diagram](./Use_case.jpg)
 
-[Click to view functional Viewpoint](./Functional%20Viewpoint.pdf)
+[Click to view functional Viewpoint](./Functional%20Viewpoint.jpg)
