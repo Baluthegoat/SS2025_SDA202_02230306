@@ -1,6 +1,6 @@
 ## Update Car Use Case - Detailed Flow Description
 
-### **Basic Flow (Happy Path)**
+### **Flow ( Happy flow )**
 
 **Step 1: Car Plate Number Entry**
 
